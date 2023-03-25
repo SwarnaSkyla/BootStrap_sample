@@ -1,0 +1,27 @@
+nav{
+    margin:20px;
+}
+
+.btn:hover{
+    background-color: transparent;
+}
+
+.table{
+    border-spacing: 20px;
+}
+.container-mt-3,.accordion,.table,.carrd,.formcontain{
+    margin:30px;
+}
+.fourth-slide{
+    width:100%;
+    background-color: gray;
+    height:100%;
+    color:white;
+
+}
+.table>thead{
+    justify-content: space-evenly;
+}
+.table a{
+    text-decoration: none;
+}
